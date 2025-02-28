@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+                "file": "Lore/Organisationen/SI 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruffion Hellblade"
+              "title": "SI 7"
             }
           }
         ]
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0aa0790b7612d8e2",
+  "active": "365253c594b235b4",
   "lastOpenFiles": [
+    "Lore/Personen/NSCs/Ruffion Hellblade.md",
     "Lore/Orte",
     "Lore/Items",
     "Lore",
@@ -172,7 +174,6 @@
     "Lore/Personen/SCs/Bastis Char.md",
     "Lore/Personen/SCs/Rebeccas Char.md",
     "Lore/Personen/SCs/Fannys Char.md",
-    "Lore/Personen/NSCs/Ruffion Hellblade.md",
     "Images/Image Leeroy.jpeg",
     "Images/Image Ruffion Hellblade.jpeg",
     "Images/Image Matthias Shaw.jpeg",
