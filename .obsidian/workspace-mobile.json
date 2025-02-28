@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "c15dc1384da9cc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a972fa78579e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365253c594b235b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruffion Hellblade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a839492d6312d767",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0aa0790b7612d8e2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "9f15ffc3e361f37a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "53cfa0b00515bf48",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "509b468733ae0b62",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "46f7151285e25d04",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f45614a6cac73b5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "973238d1e98133ad",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6b2e1b4b5bef8d95",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0aa0790b7612d8e2",
+  "lastOpenFiles": [
+    "Lore/Orte",
+    "Lore/Items",
+    "Lore",
+    "Lore/Personen/NSCs/Meister Matthias Shaw.md",
+    "Lore/Personen/NSCs/Marcus Jonathan Swordhold.md",
+    "Lore/Personen/NSCs/Leutnant Leeroy.md",
+    "Lore/Personen/NSCs/Lady Jaina Proudmoor v. Theramore.md",
+    "Lore/Personen/NSCs/Kronprinz Anduin Wrynn v. Sturmwind.md",
+    "Lore/Personen/NSCs/König Varian Wrynn v. Sturmfels.md",
+    "Lore/Personen/NSCs/Ethin Wigglepix.md",
+    "Lore/Personen/NSCs/Eos’Arel Mondfeder.md",
+    "Lore/Personen/NSCs/Bischöfin Ignacia.md",
+    "Lore/Personen/NSCs/Azurius Helmsbed.md",
+    "Lore/Personen/SCs/Bastis Char.md",
+    "Lore/Personen/SCs/Rebeccas Char.md",
+    "Lore/Personen/SCs/Fannys Char.md",
+    "Lore/Personen/NSCs/Ruffion Hellblade.md",
+    "Images/Image Leeroy.jpeg",
+    "Images/Image Ruffion Hellblade.jpeg",
+    "Images/Image Matthias Shaw.jpeg",
+    "Images/Image Jonathan Swordhold.jpeg",
+    "Images/Image Ignacia.jpeg",
+    "Images/Image Ethin Wigglepix.jpeg",
+    "Images/Image Azurius Helmsbed.jpeg",
+    "Images/Image Jaina Proudmoor.jpeg",
+    "Images/Image Anduin Wrynn.jpeg",
+    "Images/Image Varian Wrynn.jpeg",
+    "Lore/Organisationen/SI 7.md",
+    "Lore/Organisationen",
+    "Lore/Personen/SCs",
+    "Lore/Personen/NSCs",
+    "Lore/Personen",
+    "Images"
+  ]
+}
