@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Organisationen/Horde.md",
+                "file": "Nito/Zauber/Level I/Bless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horde"
+              "title": "Bless"
+            }
+          },
+          {
+            "id": "e086da05e2dc4635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nito/Zauber/Cantrips/Thaumaturgy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thaumaturgy"
+            }
+          },
+          {
+            "id": "2bbdf01ed191bd65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Spell Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spell Template"
             }
           }
         ]
@@ -78,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 359.5
   },
   "right": {
     "id": "fe619551be869284",
@@ -171,18 +199,45 @@
   },
   "active": "d968ab91057107de",
   "lastOpenFiles": [
-    "Lore/Völker/Kirin Tor.md",
+    "Nito/Zauber/Level I/Bane.md",
+    "Nito/Zauber/Level I/Bless.md",
+    "_templates/Spell Template.md",
+    "Nito/Spell-List.md",
+    "Nito/Zauber/Level V",
+    "Nito/Zauber/Level IV",
+    "Nito/Zauber/Level III",
+    "Nito/Zauber/Level II",
+    "Nito/Zauber/Level I",
+    "Nito/Zauber/Cantrips/Toll the Dead.md",
+    "Nito/Zauber/Cantrips/Thaumaturgy.md",
+    "Nito/Zauber/Cantrips/Spare the dying.md",
+    "Nito/Zauber/Cantrips/Light.md",
+    "Nito/Zauber/Cantrips/Guidance.md",
+    "Nito/Inventar von Nito.md",
+    "Nito/Nito, der erste der Toten.md",
+    "Nito/Items/Elunestein der Absorbtion.md",
     "Lore/Organisationen/Horde.md",
-    "Lore/Völker/Hochelfen.md",
-    "Lore/Organisationen/Allianz.md",
-    "Lore/Völker/Gnome.md",
-    "Lore/Personen/SCs/Nito, der erste der Toten.md",
-    "Lore/Personen/SCs/Payx.md",
-    "Lore/Völker",
-    "Lore/Allgemeines/Artificer & Artefaktschmiede.md",
-    "Lore/Personen/NSCs/Meisterermittler Matthias Shaw.md",
-    "Lore/Organisationen/SI 7.md",
-    "Lore/Allgemeines",
-    "Lore/Personen/NSCs/Ethin Wigglepix.md"
+    "Nito/Zauber/Cantrips",
+    "Lore/Personen/NSCs/Gerick Knochengriff.md",
+    "Nito/Zauber",
+    "Images/Image Umhang des Schutzes.jpeg",
+    "Images/Image Wächterschild.jpeg",
+    "Images/Image Stein der Absorbtion.jpeg",
+    "_templates/Item Template.md",
+    "_templates",
+    "Lore/Orte/Zwillingsspitzen.md",
+    "Timeline.md",
+    "Lore/Völker/Schwarze Drachen.md",
+    "Lore/Orte/Rotkamm Gebirge.md",
+    "Lore/Organisationen/Purpurner Ring.md",
+    "Lore/Personen/NSCs/Onyxia.md",
+    "Nito/Items/Zauberstab der Angst.md",
+    "Nito/Items/Wächterschild.md",
+    "Nito/Items/Umhang des Schutzes.md",
+    "Nito/Items",
+    "Nito",
+    "Lore/Personen/SCs/Soe.md",
+    "Lore/Personen/SCs/Leyla.md",
+    "Images/Image Zauberstab der Angst.jpeg"
   ]
 }

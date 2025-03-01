@@ -6,4 +6,4 @@
 ### Beschreibung
 **+1**  auf **AC** und **Saving Throws**
 
-![[IMG_0271.jpeg]]
+![[Image Umhang des Schutzes.jpeg]]
