@@ -4,4 +4,4 @@
 
 ![[Image Eos’Arel.jpeg]]
 
-Schwester von [[Rebeccas Char]]
+Schwester von [[Soe]]
