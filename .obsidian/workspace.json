@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Spell-List.md",
+                "file": "Nito/Zauber/Level V/Flame Strike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spell-List"
+              "title": "Flame Strike"
             }
           }
         ]
@@ -171,9 +171,15 @@
   },
   "active": "e086da05e2dc4635",
   "lastOpenFiles": [
+    "Nito/Zauber/Level V/Dispel Evil and Good.md",
+    "Nito/Zauber/Level V/Flame Strike.md",
+    "Nito/Zauber/Level V/Contagion.md",
+    "Nito/Zauber/Level V/Commune.md",
+    "Nito/Spell-List.md",
+    "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
+    "Nito/Zauber/Level I/💀False Life (autom.).md",
     "Nito/Zauber/Cantrips/⭐Guidance.md",
     "Nito/Zauber/Level I/⭐Guiding Bolt.md",
-    "Nito/Spell-List.md",
     "Nito/Zauber/Level II/Zone of Truth.md",
     "Nito/Zauber/Level I/⭐Inflict Wounds.md",
     "Nito/Zauber/Level II/⭐Spiritual Weapon.md",
@@ -191,12 +197,6 @@
     "Nito/Zauber/Level II/Find Traps.md",
     "Nito/Zauber/Level II/Enhance Ability.md",
     "Nito/Zauber/Level II/Continual Flame.md",
-    "Nito/Zauber/Level II/Calm Emotions.md",
-    "Nito/Zauber/Level II/Blindness, Deafness (autom.).md",
-    "Nito/Zauber/Level II/Augury.md",
-    "Nito/Zauber/Level II/Aid.md",
-    "Nito/Zauber/Level I/Command.md",
-    "Nito/Nito, der erste der Toten.md",
     "Nito/Zauber/Level V",
     "Nito/Zauber/Level IV",
     "Nito/Zauber/Level III",
