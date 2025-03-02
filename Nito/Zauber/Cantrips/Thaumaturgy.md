@@ -4,7 +4,7 @@
 [Type::Fluff]
 [Rating::B]
 [Components::V]
-[Time::1 Action]
+[Time::1 A.]
 [Range::30 feet]
 [Attack::\-]
 [Duration::1 Minute]

@@ -4,7 +4,7 @@
 [Type::Buff]
 [Rating::S]
 [Components::V,S]
-[Time::1 Action]
+[Time::1 A.]
 [Range::Touch]
 [Attack::\-]
 [Duration::1 Minute]

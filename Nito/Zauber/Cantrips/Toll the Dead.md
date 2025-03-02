@@ -1,12 +1,12 @@
 #spell
 
 [Level::0]
-[Type::Damage]
+[Type::Dmg.]
 [Rating::S]
 [Components::V,S]
-[Time::1 Action]
+[Time::1 A.]
 [Range::60 feet]
-[Attack::Spell Attack]
+[Attack::WIS Save]
 [Duration::Instant]
 [Damage::2d8/2d12 necr.]
 ### Description

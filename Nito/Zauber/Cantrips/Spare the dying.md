@@ -4,7 +4,7 @@
 [Type::Heal]
 [Rating::A]
 [Components::V,S]
-[Time::1 Action]
+[Time::1 A.]
 [Range::Touch]
 [Attack::\-]
 [Duration::Instant]

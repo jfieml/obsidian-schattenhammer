@@ -4,7 +4,7 @@
 [Type::Utility]
 [Rating::A]
 [Components::V,M*]
-[Time::1 Action]
+[Time::1 A.]
 [Range::Touch]
 [Attack::DEX Save]
 [Duration::1 Hour]
@@ -14,4 +14,4 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
 
-\* (A firefly or phosphorescent moss)
+\*(A firefly or phosphorescent moss)

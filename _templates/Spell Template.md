@@ -1,13 +1,13 @@
 #spell
 
-[Level::0]
+[Level::2]
 [Type::Damage]
-[Rating::S]
-[Components::V, S]
-[Time::1 Action]
+[Rating::A]
+[Components::V,S]
+[Time::1 A.]
 [Range::Touch]
-[Attack::Spell Attack]
-[Damage::...]
-[Duration::1 Minute]
+[Attack::\-]
+[Damage::\-]
+[Duration::Instant]
 ### Description
 ...
