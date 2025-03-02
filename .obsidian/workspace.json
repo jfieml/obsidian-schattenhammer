@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d968ab91057107de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nito/Zauber/Cantrips/Guidance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guidance"
-            }
-          },
-          {
             "id": "e086da05e2dc4635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Zauber/Level II/Zone of Truth.md",
+                "file": "Nito/Spell-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zone of Truth"
+              "title": "Spell-List"
             }
           }
         ]
@@ -183,13 +169,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a755998e6ac8088c",
+  "active": "e086da05e2dc4635",
   "lastOpenFiles": [
+    "Nito/Zauber/Cantrips/⭐Guidance.md",
+    "Nito/Zauber/Level I/⭐Guiding Bolt.md",
     "Nito/Spell-List.md",
-    "Nito/Zauber/Level II/Prayer of Healing.md",
     "Nito/Zauber/Level II/Zone of Truth.md",
+    "Nito/Zauber/Level I/⭐Inflict Wounds.md",
+    "Nito/Zauber/Level II/⭐Spiritual Weapon.md",
+    "Nito/Zauber/Cantrips/⭐Toll the Dead.md",
+    "Nito/Zauber/Cantrips/Spare the dying.md",
+    "Nito/Zauber/Level II/Prayer of Healing.md",
     "Nito/Zauber/Level II/Warding Bond.md",
-    "Nito/Zauber/Level II/Spiritual Weapon.md",
     "Nito/Zauber/Level II/Silence.md",
     "Nito/Zauber/Level II/Protection from Poison.md",
     "_templates/Spell Template.md",
@@ -206,11 +197,6 @@
     "Nito/Zauber/Level II/Aid.md",
     "Nito/Zauber/Level I/Command.md",
     "Nito/Nito, der erste der Toten.md",
-    "Nito/Zauber/Level I/Shield of Faith.md",
-    "Nito/Zauber/Level I/Sanctuary.md",
-    "Nito/Zauber/Level I/Purify Food and Drink.md",
-    "Nito/Zauber/Level I/Protection from Evil and Good.md",
-    "Nito/Zauber/Level I/Inflict Wounds.md",
     "Nito/Zauber/Level V",
     "Nito/Zauber/Level IV",
     "Nito/Zauber/Level III",

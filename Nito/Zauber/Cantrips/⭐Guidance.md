@@ -1,7 +1,7 @@
 #spell
 
 [Level::0]
-[Type::Buff]
+[Type::Util]
 [Rating::S]
 [Components::V,S]
 [Time::1 A.]

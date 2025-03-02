@@ -10,7 +10,7 @@ prepared: true
 [Time::1 A.]
 [Range::120 ft.]
 [Attack::Spell Attack]
-[Damage::3d6 radiant]
+[Damage::4d6 radiant]
 [Duration::Instant]
 ### Description
 
