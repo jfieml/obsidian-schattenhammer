@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Nito, der erste der Toten.md",
+                "file": "Nito/Fight Cheat-Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nito, der erste der Toten"
+              "title": "Fight Cheat-Sheet"
             }
           }
         ]
@@ -156,8 +156,16 @@
   },
   "active": "8331868fb48e2b60",
   "lastOpenFiles": [
-    "Nito/Inventar von Nito.md",
     "Nito/Spell-List.md",
+    "Nito/Items/Zauberstab der Angst.md",
+    "Nito/Zauber/Level I/Command.md",
+    "Timeline.md",
+    "Nito/Fight Cheat-Sheet.md",
+    "Nito/Items/Wächterschild.md",
+    "Nito/Items/Umhang des Schutzes.md",
+    "Nito/Items/Elunestein der Absorbtion.md",
+    "Nito/Nito, Character-Sheet.md",
+    "Nito/Inventar von Nito.md",
     "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
     "Nito/Zauber/Level I/💀False Life (autom.).md",
     "Nito/Zauber/Cantrips/⭐Toll the Dead.md",
@@ -174,16 +182,8 @@
     "Nito/Zauber/Level II/Gentle Repose.md",
     "Nito/Zauber/Level II/Enhance Ability.md",
     "Nito/Zauber/Level II/Aid.md",
-    "Nito/Zauber/Level II/Protection from Poison.md",
-    "Nito/Zauber/Level II/Prayer of Healing.md",
-    "Nito/Zauber/Level II/Locate Object.md",
-    "Nito/Zauber/Level II/Warding Bond.md",
-    "Nito/Zauber/Level II/⭐Spiritual Weapon.md",
-    "Nito/Zauber/Level II/Zone of Truth.md",
     "Nito/Zauber/Level II",
-    "/_templates/Spell Template.md",
     "/_templates",
-    "/Nito/Zauber/Level II/⭐Spiritual Weapon.md",
     "/Nito/Zauber/Level II",
     "/Nito/Zauber/Level I",
     "/Nito/Zauber/Cantrips",

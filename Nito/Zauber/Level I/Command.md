@@ -9,7 +9,7 @@ prepared: true
 [Components::V]
 [Time::1 A.]
 [Range::60 ft.]
-[Attack::Spell Attack]
+[Attack::WIS Save]
 [Damage::\-]
 [Duration::1 Round]
 ### Description
