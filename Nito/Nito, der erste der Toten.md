@@ -10,6 +10,8 @@ WIS (wisMod::+5)/(wisValue::20)
 CHA (chaMod::-1)/(chaValue::8)
 
  HP (hp::73/73)
+ Hit-Dice (hitdie::d10)
+
 
 Spell-Slots:
 I: 4x

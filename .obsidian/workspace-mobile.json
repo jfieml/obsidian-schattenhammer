@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Spell-List.md",
+                "file": "Nito/Nito, der erste der Toten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spell-List"
+              "title": "Nito, der erste der Toten"
             }
           }
         ]
@@ -156,9 +156,10 @@
   },
   "active": "8331868fb48e2b60",
   "lastOpenFiles": [
+    "Nito/Inventar von Nito.md",
+    "Nito/Spell-List.md",
     "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
     "Nito/Zauber/Level I/💀False Life (autom.).md",
-    "Nito/Spell-List.md",
     "Nito/Zauber/Cantrips/⭐Toll the Dead.md",
     "Nito/Zauber/Level I/⭐Guiding Bolt.md",
     "Nito/Zauber/Level I/⭐Inflict Wounds.md",
@@ -183,7 +184,6 @@
     "/_templates/Spell Template.md",
     "/_templates",
     "/Nito/Zauber/Level II/⭐Spiritual Weapon.md",
-    "/Nito/Zauber/Level II/Zone of Truth.md",
     "/Nito/Zauber/Level II",
     "/Nito/Zauber/Level I",
     "/Nito/Zauber/Cantrips",
