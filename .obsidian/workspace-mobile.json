@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "c15dc1384da9cc0f",
+    "id": "9d8f6d8192f5bfb7",
     "type": "split",
     "children": [
       {
-        "id": "e9a972fa78579e77",
+        "id": "78d367c772642c32",
         "type": "tabs",
         "children": [
           {
-            "id": "36346c1f9c94ff92",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nito/Inventar von Nito.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Inventar von Nito"
-            }
-          },
-          {
-            "id": "520e96cf5d32d668",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "c8f06402125c2a07",
+            "id": "8331868fb48e2b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purpurner Ring.md",
+                "file": "Nito/Spell-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Purpurner Ring"
-            }
-          },
-          {
-            "id": "8d0eb0ad56288bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Personen/NSCs/Azurius Helmsbed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Azurius Helmsbed"
-            }
-          },
-          {
-            "id": "a19720e9216d671a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nito/Items/Zauberstab der Angst.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zauberstab der Angst"
+              "title": "Spell-List"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a839492d6312d767",
+    "id": "426f17d2d0a0f9c7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "0aa0790b7612d8e2",
+        "id": "70076519bd9feee9",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -105,7 +44,7 @@
         }
       },
       {
-        "id": "9f15ffc3e361f37a",
+        "id": "680ae5770d200c6b",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -122,7 +61,7 @@
         }
       },
       {
-        "id": "53cfa0b00515bf48",
+        "id": "694f8116eb52a8b5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -137,7 +76,7 @@
         }
       },
       {
-        "id": "509b468733ae0b62",
+        "id": "4c4c44330a45f170",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -147,20 +86,19 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
-    "id": "46f7151285e25d04",
+    "id": "1f485fe9ef7db6e8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6f45614a6cac73b5",
+        "id": "97ba41acf61bb0ee",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lore/Personen/NSCs/Azurius Helmsbed.md",
+            "file": "Nito/Spell-List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,12 +112,12 @@
         }
       },
       {
-        "id": "973238d1e98133ad",
+        "id": "d2ecd2b3b148daec",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+            "file": "Nito/Spell-List.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,12 +126,12 @@
         }
       },
       {
-        "id": "6b2e1b4b5bef8d95",
+        "id": "52d1da68044fc2ea",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lore/Personen/NSCs/Ruffion Hellblade.md",
+            "file": "Nito/Spell-List.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -201,78 +139,66 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "11a10b2cc4b27d23",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d0eb0ad56288bb7",
+  "active": "8331868fb48e2b60",
   "lastOpenFiles": [
-    "Purpurner Ring.md",
-    "Timeline.md",
-    "Nito/Inventar von Nito.md",
-    "Nito/Items/Zauberstab der Angst.md",
-    "Lore/Personen/NSCs/Azurius Helmsbed.md",
-    "Lore/Personen/NSCs/Kronprinz Anduin Wrynn v. Sturmwind.md",
-    "Nito/Items/Elunestein der Absorbtion.md",
-    "Schwarze Drachen.md",
-    "Lore/Völker/Hochelfen.md",
-    "Lore/Völker/Gnome.md",
-    "Lore/Organisationen/Allianz.md",
-    "Zwillingsspitzen.md",
-    "Onyxia.md",
-    "Nito/Items/Wächterschild.md",
-    "Nito/Items/Umhang des Schutzes.md",
-    "Gerick Knochengriff.md",
-    "_templates/Item Template.md",
-    "_templates",
-    "IMG_0271.jpeg",
-    "Rotkamm Gebirge.md",
-    "Image Wächterschild.jpeg",
-    "Nito/Items",
-    "Image Stein der Absorbtion.jpeg",
-    "Image Zauberstab der Angst.jpeg",
-    "Nito/Nito, der erste der Toten.md",
-    "Nito",
-    "Lore/Personen/SCs/Soe.md",
-    "Lore/Personen/SCs/Leyla.md",
-    "Lore/Personen/SCs/Payx.md",
-    "Lore/Personen/NSCs/Ruffion Hellblade.md",
-    "Lore/Personen/NSCs/Meisterermittler Matthias Shaw.md",
-    "Lore/Personen/NSCs/Marcus Jonathan Swordhold.md",
-    "Lore/Personen/NSCs/Leutnant Leeroy.md",
-    "Lore/Allgemeines",
-    "Lore/Völker",
-    "/Lore/Organisationen",
+    "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
+    "Nito/Zauber/Level I/💀False Life (autom.).md",
+    "Nito/Spell-List.md",
+    "Nito/Zauber/Cantrips/⭐Toll the Dead.md",
+    "Nito/Zauber/Level I/⭐Guiding Bolt.md",
+    "Nito/Zauber/Level I/⭐Inflict Wounds.md",
+    "Nito/Zauber/Cantrips/⭐Guidance.md",
+    "Nito/Zauber/Level II/Hold Person.md",
+    "Nito/Zauber/Level II/Silence.md",
+    "Nito/Zauber/Level II/Find Traps.md",
+    "Nito/Zauber/Level II/Calm Emotions.md",
+    "Nito/Zauber/Level II/Lesser Restoration.md",
+    "Nito/Zauber/Level II/Augury.md",
+    "Nito/Zauber/Level II/Continual Flame.md",
+    "Nito/Zauber/Level II/Gentle Repose.md",
+    "Nito/Zauber/Level II/Enhance Ability.md",
+    "Nito/Zauber/Level II/Aid.md",
+    "Nito/Zauber/Level II/Protection from Poison.md",
+    "Nito/Zauber/Level II/Prayer of Healing.md",
+    "Nito/Zauber/Level II/Locate Object.md",
+    "Nito/Zauber/Level II/Warding Bond.md",
+    "Nito/Zauber/Level II/⭐Spiritual Weapon.md",
+    "Nito/Zauber/Level II/Zone of Truth.md",
+    "Nito/Zauber/Level II",
+    "/_templates/Spell Template.md",
+    "/_templates",
+    "/Nito/Zauber/Level II/⭐Spiritual Weapon.md",
+    "/Nito/Zauber/Level II/Zone of Truth.md",
+    "/Nito/Zauber/Level II",
+    "/Nito/Zauber/Level I",
+    "/Nito/Zauber/Cantrips",
+    "/Nito/Zauber",
+    "/Nito",
+    "Images/Image Wächterschild.jpeg",
+    "Nito/Zauber/Cantrips",
+    "Images/Image Umhang des Schutzes.jpeg",
+    "Images/Image Zauberstab der Angst.jpeg",
+    "Nito/Zauber/Level I",
     "/Lore/Völker",
-    "/Lore/Allgemeines",
-    "/Lore/Personen/SCs",
-    "/Lore/Personen/NSCs",
-    "Images/Image Leeroy.jpeg",
-    "Images/Image Ruffion Hellblade.jpeg",
-    "Images/Image Matthias Shaw.jpeg",
-    "Images/Image Jonathan Swordhold.jpeg",
-    "Images/Image Ignacia.jpeg",
-    "Images/Image Ethin Wigglepix.jpeg"
+    "/Images/Image Zauberstab der Angst.jpeg",
+    "/Images/Image Wächterschild.jpeg",
+    "/Images/Image Umhang des Schutzes.jpeg",
+    "/Images/Image Stein der Absorbtion.jpeg",
+    "Images/Image Stein der Absorbtion.jpeg"
   ]
 }
