@@ -1,7 +1,10 @@
+---
+prepared: false
+---
 #spell
 
 [Level::2]
-[Type::Damage]
+[Type::Dmg.]
 [Rating::A]
 [Components::V,S]
 [Time::1 A.]

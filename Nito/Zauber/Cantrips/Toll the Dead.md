@@ -5,7 +5,7 @@
 [Rating::S]
 [Components::V,S]
 [Time::1 A.]
-[Range::60 feet]
+[Range::60 ft.]
 [Attack::WIS Save]
 [Duration::Instant]
 [Damage::2d8/2d12 necr.]

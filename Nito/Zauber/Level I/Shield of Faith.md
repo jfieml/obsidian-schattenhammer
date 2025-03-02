@@ -8,7 +8,7 @@ prepared: false
 [Rating::B]
 [Components::V,S,M*]
 [Time::1 A.]
-[Range::60 feet]
+[Range::60 ft.]
 [Attack::\-]
 [Damage::\-]
 [Duration::Concentration, 10 Minutes]

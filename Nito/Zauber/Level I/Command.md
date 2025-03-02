@@ -8,7 +8,7 @@ prepared: true
 [Rating::A]
 [Components::V]
 [Time::1 A.]
-[Range::60 feet]
+[Range::60 ft.]
 [Attack::Spell Attack]
 [Damage::\-]
 [Duration::1 Round]

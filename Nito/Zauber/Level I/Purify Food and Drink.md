@@ -8,7 +8,7 @@ prepared: false
 [Rating::C]
 [Components::V,S]
 [Time::1 A.]
-[Range::10 feet]
+[Range::10 ft.]
 [Attack::\-]
 [Damage::\-]
 [Duration::Instant]

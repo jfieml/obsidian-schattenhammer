@@ -29,6 +29,7 @@ WHERE
 ```dataview
 TABLE
 	Level,
+	Rating,
 	Type,
 	Time,
 	choice(prepared, "X", "") AS Prepared

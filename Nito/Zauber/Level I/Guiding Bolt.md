@@ -8,7 +8,7 @@ prepared: true
 [Rating::A]
 [Components::V,S]
 [Time::1 A.]
-[Range::120 feet]
+[Range::120 ft.]
 [Attack::Spell Attack]
 [Damage::3d6 radiant]
 [Duration::Instant]

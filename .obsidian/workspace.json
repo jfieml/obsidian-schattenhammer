@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Zauber/Level I/False Life (autom.).md",
+                "file": "Nito/Zauber/Cantrips/Guidance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "False Life (autom.)"
+              "title": "Guidance"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Spell-List.md",
+                "file": "Nito/Zauber/Level II/Zone of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spell-List"
+              "title": "Zone of Truth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,39 +183,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e086da05e2dc4635",
+  "active": "a755998e6ac8088c",
   "lastOpenFiles": [
-    "Nito/Zauber/Level I/Bane.md",
     "Nito/Spell-List.md",
-    "Nito/Zauber/Level I/False Life (autom.).md",
-    "Nito/Zauber/Level I/Detect Poison and Disease.md",
+    "Nito/Zauber/Level II/Prayer of Healing.md",
+    "Nito/Zauber/Level II/Zone of Truth.md",
+    "Nito/Zauber/Level II/Warding Bond.md",
+    "Nito/Zauber/Level II/Spiritual Weapon.md",
+    "Nito/Zauber/Level II/Silence.md",
+    "Nito/Zauber/Level II/Protection from Poison.md",
+    "_templates/Spell Template.md",
+    "Nito/Zauber/Level II/Locate Object.md",
+    "Nito/Zauber/Level II/Lesser Restoration.md",
+    "Nito/Zauber/Level II/Hold Person.md",
+    "Nito/Zauber/Level II/Gentle Repose.md",
+    "Nito/Zauber/Level II/Find Traps.md",
+    "Nito/Zauber/Level II/Enhance Ability.md",
+    "Nito/Zauber/Level II/Continual Flame.md",
+    "Nito/Zauber/Level II/Calm Emotions.md",
+    "Nito/Zauber/Level II/Blindness, Deafness (autom.).md",
+    "Nito/Zauber/Level II/Augury.md",
+    "Nito/Zauber/Level II/Aid.md",
     "Nito/Zauber/Level I/Command.md",
-    "Nito/Zauber/Level I/Healing Word.md",
-    "Nito/Zauber/Cantrips/Guidance.md",
+    "Nito/Nito, der erste der Toten.md",
     "Nito/Zauber/Level I/Shield of Faith.md",
-    "Nito/Zauber/Level I/Inflict Wounds.md",
-    "Nito/Zauber/Level I/Guiding Bolt.md",
-    "Nito/Zauber/Level I/Detect Evil and Good.md",
     "Nito/Zauber/Level I/Sanctuary.md",
     "Nito/Zauber/Level I/Purify Food and Drink.md",
     "Nito/Zauber/Level I/Protection from Evil and Good.md",
-    "Nito/Zauber/Level I/Detect Magic.md",
-    "Nito/Zauber/Level I/Cure Wounds.md",
-    "Nito/Zauber/Level I/Create or Destroy Water.md",
-    "Nito/Zauber/Level I/Bless.md",
-    "_templates/Spell Template.md",
-    "Timeline.md",
-    "Nito/Zauber/Cantrips/Toll the Dead.md",
-    "Nito/Zauber/Cantrips/Thaumaturgy.md",
-    "Nito/Zauber/Cantrips/Spare the dying.md",
-    "Nito/Zauber/Cantrips/Light.md",
-    "index.md",
+    "Nito/Zauber/Level I/Inflict Wounds.md",
     "Nito/Zauber/Level V",
     "Nito/Zauber/Level IV",
     "Nito/Zauber/Level III",
     "Nito/Zauber/Level II",
     "Nito/Zauber/Level I",
-    "Nito/Inventar von Nito.md",
     "Nito/Zauber/Cantrips",
     "Nito/Zauber",
     "Images/Image Umhang des Schutzes.jpeg",

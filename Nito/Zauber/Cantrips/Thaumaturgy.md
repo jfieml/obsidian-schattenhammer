@@ -5,7 +5,7 @@
 [Rating::B]
 [Components::V]
 [Time::1 A.]
-[Range::30 feet]
+[Range::30 ft.]
 [Attack::\-]
 [Duration::1 Minute]
 ### Description
