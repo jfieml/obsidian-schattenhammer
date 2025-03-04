@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bwonsamdi.md",
+                "file": "Lore/Allgemeines/Bwonsamdi.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Organisationen/Horde.md",
+                "file": "Lore/Orte/Rotkamm Gebirge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horde"
+              "title": "Rotkamm Gebirge"
             }
           },
           {
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Druidenzirkel der Zwillingsspitzen.md",
+                "file": "Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Organisationen/Horde.md",
+                "file": "Lore/Orte/Rotkamm Gebirge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Horde"
+              "title": "Backlinks for Rotkamm Gebirge"
             }
           },
           {
@@ -211,14 +211,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e090bc3f64f907b5",
+  "active": "a755998e6ac8088c",
   "lastOpenFiles": [
-    "Rotkamm Gebirge.md",
-    "Bwonsamdi.md",
-    "Smaragdgrüner Traum.md",
-    "Loa.md",
+    "Lore/Orte/Rotkamm Gebirge.md",
+    "Lore/Orte/Rotkamm Gebirge.md",
+    "Lore/Organisationen/Horde.md",
+    "Lore/Allgemeines/Bwonsamdi.md",
+    "Lore/Orte/Smaragdgrüner Traum.md",
+    "Lore/Allgemeines/Loa.md",
     "Lore/Orte/Zwillingsspitzen.md",
-    "Druidenzirkel der Zwillingsspitzen.md",
+    "Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
     "Zwilligsspitzen.md",
     "Nito/Zauber/Level V/Flame Strike.md",
     "Nito/Nito, Character-Sheet.md",
@@ -237,8 +239,6 @@
     "Nito/Zauber/Cantrips/Spare the dying.md",
     "Nito/Zauber/Level II/Prayer of Healing.md",
     "Nito/Zauber/Level II/Warding Bond.md",
-    "Nito/Zauber/Level II/Silence.md",
-    "Nito/Zauber/Level II/Protection from Poison.md",
     "Nito/Zauber/Level V",
     "Nito/Zauber/Level IV",
     "Nito/Zauber/Level III",
