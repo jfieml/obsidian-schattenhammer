@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Organisationen/Allianz.md",
+                "file": "Lore/Orte/Rotkamm Gebirge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Allianz"
+              "title": "Rotkamm Gebirge"
             }
           }
         ]
@@ -157,8 +157,11 @@
   },
   "active": "8331868fb48e2b60",
   "lastOpenFiles": [
-    "Lore/Organisationen/Horde.md",
     "Lore/Organisationen/Allianz.md",
+    "/Lore/Orte/Rotkamm Gebirge.md",
+    "/Lore/Orte",
+    "/Lore",
+    "Lore/Organisationen/Horde.md",
     "Lore/Allgemeines/Dritter Krieg.md",
     "Lore/Völker/Gnome.md",
     "Lore/Allgemeines/Trogg-Krieg.md",
@@ -168,15 +171,12 @@
     "Lore/Allgemeines/Loa.md",
     "/Lore/Orte/Zwillingsspitzen.md",
     "/Lore/Orte/Smaragdgrüner Traum.md",
-    "/Lore/Orte/Rotkamm Gebirge.md",
-    "/Lore/Orte",
     "/Lore/Organisationen/Horde.md",
     "/Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
     "/Lore/Organisationen",
     "/Lore/Allgemeines/Loa.md",
     "/Lore/Allgemeines/Bwonsamdi.md",
     "/Lore/Allgemeines",
-    "/Lore",
     "Timeline.md",
     "Nito/Fight Cheat-Sheet.md",
     "Nito/Spell-List.md",
@@ -186,7 +186,6 @@
     "Nito/Items/Umhang des Schutzes.md",
     "Nito/Items/Elunestein der Absorbtion.md",
     "Nito/Nito, Character-Sheet.md",
-    "Nito/Inventar von Nito.md",
     "Nito/Zauber/Level II",
     "/_templates",
     "/Nito/Zauber/Level II",
