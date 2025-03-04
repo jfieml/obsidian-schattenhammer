@@ -3,7 +3,7 @@ prepared: false
 ---
 #spell
 
-[Level::2]
+[Level::5]
 [Type::Dmg.]
 [Rating::A]
 [Components::V,S]

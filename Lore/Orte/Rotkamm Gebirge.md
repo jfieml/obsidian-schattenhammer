@@ -10,4 +10,4 @@ In der **Brennenden Steppe** erhebt sich der **Schwarzfels**, eine gewaltige vul
 
 Dieses Gebirge ist nicht nur eine **natürliche Barriere** zwischen den südlichen Königreichen und den feindlichen Kräften des Schwarzfels, sondern auch ein strategisch wichtiger Ort, der über **Jahrhunderte Schauplatz von Kriegen und Konflikten** war.  
 
-Seine zerklüfteten Pässe und schwer zugänglichen Pforten machen es zu einem gefährlichen und dennoch entscheidenden Gebiet für den Schutz von **Sturmwind und Khaz Modan**.  
+Seine zerklüfteten Pässe und schwer zugänglichen Pforten machen es zu einem gefährlichen und dennoch entscheidenden Gebiet für den Schutz von **Sturmwind und Khaz Modan**.

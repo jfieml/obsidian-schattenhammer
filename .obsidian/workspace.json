@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Orte/Zwillingsspitzen.md",
+                "file": "Nito/Zauber/Level V/Scrying.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zwillingsspitzen"
+              "title": "Scrying"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Allgemeines/Bwonsamdi.md",
+                "file": "Nito/Spell-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bwonsamdi"
+              "title": "Spell-List"
             }
           },
           {
@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Orte/Rotkamm Gebirge.md",
+                "file": "Nito/Fight Cheat-Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rotkamm Gebirge"
-            }
-          },
-          {
-            "id": "a3974212be76d658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Druidenzirkel der Zwillingsspitzen"
+              "title": "Fight Cheat-Sheet"
             }
           }
         ],
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 282.5
   },
   "right": {
     "id": "fe619551be869284",
@@ -137,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Orte/Rotkamm Gebirge.md",
+                "file": "Nito/Fight Cheat-Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rotkamm Gebirge"
+              "title": "Backlinks for Fight Cheat-Sheet"
             }
           },
           {
@@ -156,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Organisationen/Horde.md",
+                "file": "Nito/Fight Cheat-Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Horde"
+              "title": "Outgoing links from Fight Cheat-Sheet"
             }
           },
           {
@@ -194,11 +180,13 @@
               "title": "Outline of Horde"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,37 +195,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a755998e6ac8088c",
+  "active": "e090bc3f64f907b5",
   "lastOpenFiles": [
-    "Lore/Orte/Rotkamm Gebirge.md",
-    "Lore/Orte/Rotkamm Gebirge.md",
-    "Lore/Organisationen/Horde.md",
-    "Lore/Allgemeines/Bwonsamdi.md",
-    "Lore/Orte/Smaragdgrüner Traum.md",
-    "Lore/Allgemeines/Loa.md",
-    "Lore/Orte/Zwillingsspitzen.md",
-    "Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
-    "Zwilligsspitzen.md",
+    "Nito/Spell-List.md",
+    "Nito/Zauber/Level V/Scrying.md",
+    "Nito/Zauber/Level V/💀Cloudkill (autom.).md",
+    "Nito/Zauber/Level V/💀Antilife Shell (autom.).md",
+    "_templates/Spell Template.md",
+    "Nito/Zauber/Level V/Raise Dead.md",
+    "Nito/Zauber/Level V/Planar Binding.md",
+    "Nito/Zauber/Level V/Mass Cure Wounds.md",
+    "Nito/Zauber/Level V/Legend Lore.md",
+    "Nito/Zauber/Level V/Insect Plague.md",
+    "Nito/Fight Cheat-Sheet.md",
+    "Nito/Zauber/Level V/Hallow.md",
+    "Nito/Zauber/Level V/Greater Restoration.md",
+    "Nito/Zauber/Level V/Geas.md",
     "Nito/Zauber/Level V/Flame Strike.md",
-    "Nito/Nito, Character-Sheet.md",
     "Nito/Zauber/Level V/Dispel Evil and Good.md",
     "Nito/Zauber/Level V/Contagion.md",
     "Nito/Zauber/Level V/Commune.md",
-    "Nito/Spell-List.md",
-    "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
-    "Nito/Zauber/Level I/💀False Life (autom.).md",
-    "Nito/Zauber/Cantrips/⭐Guidance.md",
-    "Nito/Zauber/Level I/⭐Guiding Bolt.md",
-    "Nito/Zauber/Level II/Zone of Truth.md",
-    "Nito/Zauber/Level I/⭐Inflict Wounds.md",
-    "Nito/Zauber/Level II/⭐Spiritual Weapon.md",
-    "Nito/Zauber/Cantrips/⭐Toll the Dead.md",
-    "Nito/Zauber/Cantrips/Spare the dying.md",
-    "Nito/Zauber/Level II/Prayer of Healing.md",
-    "Nito/Zauber/Level II/Warding Bond.md",
+    "Nito/Zauber/Level III/💀Vampiric Touch (autom.).md",
+    "Nito/Zauber/Level IV/Stone Shape.md",
+    "Nito/Zauber/Level IV/Locate Creature.md",
+    "Nito/Zauber/Level IV/Guardian of Faith.md",
+    "Nito/Zauber/Level IV/Freedom of Movement.md",
+    "Nito/Zauber/Level IV/Divination.md",
+    "Nito/Zauber/Level IV/Control Water.md",
+    "Nito/Zauber/Level IV/Banishment.md",
+    "Images/Image Karte WoW.png",
+    "Nito/Zauber/Level IV",
+    "Nito/Zauber/Level III",
     "Nito/Zauber/Level V",
     "Nito/Zauber/Level IV",
     "Nito/Zauber/Level III",
@@ -249,8 +241,6 @@
     "Images/Image Wächterschild.jpeg",
     "Images/Image Stein der Absorbtion.jpeg",
     "_templates",
-    "Nito/Items",
-    "Nito",
     "Images/Image Zauberstab der Angst.jpeg"
   ]
 }

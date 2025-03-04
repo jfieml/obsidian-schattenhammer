@@ -10,6 +10,7 @@ FROM "Nito/Zauber"
 WHERE
 	(Type = "Dmg." or Type = "Debuff" or Type = "Buff")
 	and (prepared or Level = 0)
+SORT Level
 ```
 
 ## Other Spells

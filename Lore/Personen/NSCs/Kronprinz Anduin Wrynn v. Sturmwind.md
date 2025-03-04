@@ -1,7 +1,7 @@
 #nsc 
 
 *Lichtkleriker des Heiligen Lichts*
-Kronprinz
+Kronprinz von [[Sturmwind]]
 
 ## Notizen
 
