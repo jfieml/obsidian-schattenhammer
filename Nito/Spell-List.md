@@ -1,3 +1,5 @@
+**Number of prepared Spells** `$= dv.span(dv.pages('"Nito/Zauber"').where(p => !p.file.name.contains("💀")).where(p => p.Level > 0).where(p => p.Level > 0).where(p => p.prepared).length)` / `=([[Nito, Character-Sheet]].level + [[Nito, Character-Sheet]].wisMod)`
+
 ## Combat Spells
 ```dataview
 TABLE
@@ -8,7 +10,7 @@ TABLE
 	Damage
 FROM "Nito/Zauber"
 WHERE
-	(Type = "Dmg." or Type = "Debuff" or Type = "Buff")
+	(Type = "Dmg." or Type = "Debuff" or Type = "Buff" or Type = "Summon")
 	and (prepared or Level = 0)
 SORT Level
 ```
@@ -22,7 +24,7 @@ TABLE
 	Range
 FROM "Nito/Zauber"
 WHERE
-	(Type != "Dmg." and Type != "Debuff" and Type != "Buff")
+	(Type != "Dmg." and Type != "Debuff" and Type != "Buff" and Type != "Summon")
 	and (prepared or Level = 0)
 ```
 
