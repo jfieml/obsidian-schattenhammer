@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Allgemeines/Dritter Krieg.md",
+                "file": "Lore/Organisationen/Allianz.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dritter Krieg"
+              "title": "Allianz"
             }
           }
         ]
@@ -157,8 +157,10 @@
   },
   "active": "8331868fb48e2b60",
   "lastOpenFiles": [
-    "Lore/Völker/Gnome.md",
+    "Lore/Organisationen/Horde.md",
+    "Lore/Organisationen/Allianz.md",
     "Lore/Allgemeines/Dritter Krieg.md",
+    "Lore/Völker/Gnome.md",
     "Lore/Allgemeines/Trogg-Krieg.md",
     "Lore/Organisationen/Druidenzirkel der Zwillingsspitzen.md",
     "Lore/Allgemeines/Bwonsamdi.md",
@@ -185,8 +187,6 @@
     "Nito/Items/Elunestein der Absorbtion.md",
     "Nito/Nito, Character-Sheet.md",
     "Nito/Inventar von Nito.md",
-    "Nito/Zauber/Level II/💀Blindness, Deafness (autom.).md",
-    "Nito/Zauber/Level I/💀False Life (autom.).md",
     "Nito/Zauber/Level II",
     "/_templates",
     "/Nito/Zauber/Level II",
