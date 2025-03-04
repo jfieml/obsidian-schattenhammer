@@ -1,7 +1,7 @@
 #volk 
 ## Vertreibung aus Gnomeregan  
 
-Die **Gnome** lebten ursprünglich im Stadtstaat **Gnomeregan**, bis sie vor fünf Jahren während des **Trogg-Krieges** (zeitgleich mit dem [[Dritter Krieg|Dritten Krieg]]) aus ihrer Heimat vertrieben wurden.  
+Die **Gnome** lebten ursprünglich im Stadtstaat **Gnomeregan**, bis sie vor fünf Jahren während dem **[[Trogg-Krieg]]** (zeitgleich mit dem [[Dritter Krieg|Dritten Krieg]]) aus ihrer Heimat vertrieben wurden.  
 
 - Beim Versuch, alle Troggs auf einmal zu vernichten, wurde Gnomeregan **katastrophal verseucht**.
 - Die überlebenden Gnome fanden Zuflucht in **[[Eisenschmiede]]**, wo die **Eisenzwerge** sie mit offenen Armen empfingen.
