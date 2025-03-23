@@ -30,7 +30,7 @@ Erzmagier
 - Denkt der [[Schattenhammer Kult]] ist eine ernst zu nehmende Gefahr für [[Azeroth]]
 	- Die Dinge die vom Kult angebetet werden, waren auch schon auf der Heimatwelt der Orks
 - [[Shogall]] ist Gründer eines Orkkultes? Und Anführer des [[Schattenhammer Kult]]
-- [[Erzmagierin Brinnmoggle]] war der Kontakt zum Kult, einer der 3 Erzmagier aus [[Eisenschmiede]], Erzmagierin der [[Kirin Tor]]
+- [[Erzmagierin Sorina Pillwickbolt]] war der Kontakt zum Kult, einer der 3 Erzmagier aus [[Eisenschmiede]], Erzmagierin der [[Kirin Tor]]
 - Haben nach dem Verhör eine Rune für Scying gefunden
 	- Ist nicht von Azurius
 	- Er hat dafür gesorgt, dass keiner mithören kann

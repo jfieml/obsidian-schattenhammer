@@ -16,7 +16,7 @@ FROM "Nito/Items"
 - Sunburst Pendant für [[Dawn]]
 - Mondbrunnenwasser
 - 4 Elfenbeinstreifen für [[Legend Lore]] (Wert 250GP)
-- Räucherwerk im Wert von 500GP
+- Räucherwerk im Wert von 500GP für [[Legend Lore]]
 
 ## Magic Items
 

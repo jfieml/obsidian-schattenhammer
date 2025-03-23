@@ -22,3 +22,23 @@ Der Legende nach war **Bwonsamdi einst ein mächtiger [[Schattenjäger]]**, der 
 - Ein Beispiel hierfür sind die **Sandwüter-Trolle** des **Farakki-Stammes** ([[Wüstentrolle]]).  
 
 Bwonsamdi ist ein **rätselhafter und ambivalenter Loa**, der sowohl als **Helfer als auch als Bedrohung** wahrgenommen wird. Sein Einfluss reicht über alle Trollstämme hinweg, doch seine wahren Pläne und Absichten bleiben verborgen.  
+
+## Fragen und Antworten mit [[Commune]]
+
+Sind die [[Zandalari]] auf dem Weg nach [[Pandaria]] oder dort angekommen?
+Ja, Mann.
+
+Sind die Trolle von [[Gadgetzan]] losgesegelt?
+Da kannst du drauf wetten.
+
+Ist [[Arthas Menethil]] der [[Lichkönig]]?
+Ohhh Mann, könnte man so sehen.
+
+Haben die [[Zandalari]] den Sarkophag in [[Gadgetzan]] aufgeladen?
+Ja, Mann. Aber bedenke immer, ich bin ein schwer beschäftigter Loa.
+
+Warst du eigentlich schon mal sterblich?
+Ja, Mann.
+
+Hast du den Totengott der vor dir da war abgelöst?
+Junge übernimm dich nicht.
