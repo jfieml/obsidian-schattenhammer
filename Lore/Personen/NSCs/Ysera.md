@@ -1,1 +1,0 @@
-Brutmutter der [[Grüne Drachen]]

@@ -8,6 +8,4 @@
 
 ## Debuffs
 
-- [[Command]]
-- 
-
+...

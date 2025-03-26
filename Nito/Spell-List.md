@@ -4,7 +4,6 @@
 ```dataview
 TABLE
 	Level,
-	Type,
 	Time,
 	Range,
 	Attack,
@@ -13,7 +12,7 @@ FROM "Nito/Zauber"
 WHERE
 	(Type = "Dmg." or Type = "Debuff" or Type = "Buff" or Type = "Summon")
 	and (prepared or Level = 0)
-SORT Level ASC
+SORT Level
 ```
 
 ## Other Spells
@@ -27,32 +26,15 @@ FROM "Nito/Zauber"
 WHERE
 	(Type != "Dmg." and Type != "Debuff" and Type != "Buff" and Type != "Summon")
 	and (prepared or Level = 0)
-SORT Level
 ```
 
-## Concentration Spells
-
-```dataview
-TABLE
-	Level,
-	Time,
-	Type,
-	Range
-FROM "Nito/Zauber"
-WHERE
-	(startswith(Duration, "Concentration"))
-	and (prepared or Level = 0)
-```
-
----
 ## All Spells
 ```dataview
 TABLE
 	Level,
 	Rating,
 	Type,
-	choice(startswith(Duration, "Concentration"), "☑️", "") AS "Concentr.",
-	choice(prepared, "☑️", "") AS Prepared
+	Time,
+	choice(prepared, "X", "") AS Prepared
 FROM "Nito/Zauber"
-SORT Level ASC, Name ASC
 ```
