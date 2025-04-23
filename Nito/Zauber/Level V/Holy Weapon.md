@@ -1,5 +1,5 @@
 ---
-prepared: false
+prepared: true
 ---
 #spell
 
@@ -10,7 +10,7 @@ prepared: false
 [Time::1 BA.]
 [Range::Touch]
 [Attack::CON Save]
-[Damage::4d8 radiant]
+[Damage::2d8 radiant]
 [Duration::Concentration, 1 hour]
 ### Description
 

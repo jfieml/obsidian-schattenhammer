@@ -1,6 +1,6 @@
 #volk
 
-> Die **Kirin Tor** sind eine Magokratie und ein Stadtstaat im Süden von [[Lordaeron]], wo sich die [[Verlassenen]] festgesetzt haben. Ihre Hauptstadt ist **Dalaran**, das im [[Dritter Krieg|Dritten Krieg]] vom Dämonenfürsten [[Archimonde]] zerstört wurde. Der Wiederaufbau von Dalaran dauert mittlerweile vier Jahre und bindet den Großteil der magischen Ressourcen und Aufmerksamkeit.  
+> Die **Kirin Tor** sind eine Magokratie und ein Stadtstaat südlich von [[Lordaeron]], wo sich die [[Verlassenen]] festgesetzt haben. Ihre Hauptstadt ist **Dalaran**, das im [[Dritter Krieg|Dritten Krieg]] vom Dämonenfürsten [[Archimonde]] zerstört wurde. Der Wiederaufbau von Dalaran dauert mittlerweile vier Jahre und bindet den Großteil der magischen Ressourcen und Aufmerksamkeit.  
 ## Zugehörigkeit und Einfluss  
 
 Die Kirin Tor sind Teil der [[Allianz]] und sehen sich als oberste Autorität zur Regulierung der Magie. Ihr Ziel ist es, alle magisch Begabten innerhalb der Allianz entweder auszubilden oder zu kontrollieren. Zu diesem Zweck stellen sie den anderen Königreichen vertrauenswürdige Magier zur Verfügung. 

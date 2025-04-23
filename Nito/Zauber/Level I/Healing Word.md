@@ -7,7 +7,7 @@ prepared: true
 [Type::Healing]
 [Rating::A]
 [Components::V]
-[Time::1 A.]
+[Time::1 BA.]
 [Range::60 ft.]
 [Attack::\-]
 [Damage::\-]

@@ -3,7 +3,7 @@
 [Gewicht::1 Pfund]
 [Preis::mehrere Tausend Gold]
 [Attunement:: Ja (aktiv)]
-[Ladungen::7/7]
+[Ladungen::5/7]
 
 ### Beschreibung
 

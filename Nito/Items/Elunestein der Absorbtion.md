@@ -3,7 +3,7 @@
 [Gewicht::1 Pfund]
 [Preis::10.000 Gold]
 [Attunement:: Ja (aktiv)]
-[Ladungen::20/20]
+[Ladungen::19/20]
 ### Beschreibung
 **AC** 24
 **HP** 10
@@ -13,5 +13,7 @@ Mit einer **Aktion** kann der Stein vom Träger jeweils eingeholt oder schweben 
 **Reaktion**: Counterspell gegen Spells <= Level 4, wenn nur der Träger Ziel des Zaubers ist.
 Hat 20 Ladungen, die pro abgebrochenen Zaubergrad verbraucht werden. Sind alle Verbraucht ist seine Magie verloren, sein Wert sinkt auf 5 Silber.
 
+Ladungsverbrauch:
+- 1: Gegen [[C'thun]] Command "Knie", im Körper des toten Ork Warlocks
 
 ![[Image Stein der Absorbtion.jpeg]]

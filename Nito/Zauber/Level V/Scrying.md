@@ -1,5 +1,5 @@
 ---
-prepared: false
+prepared: true
 ---
 #spell
 
@@ -10,7 +10,7 @@ prepared: false
 [Time::10 mins.]
 [Range::Self]
 [Attack::WIS Save]
-[Damage::\-]
+[Damage::]
 [Duration::Concentration, 10 minutes]
 ### Description
 

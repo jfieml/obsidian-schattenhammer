@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "multi-column-markdown",
+  "obsidian-columns"
 ]
