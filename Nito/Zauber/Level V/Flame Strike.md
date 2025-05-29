@@ -3,9 +3,9 @@ prepared: false
 ---
 #spell
 
-[Level::2]
+[Level::5]
 [Type::Dmg.]
-[Rating::A]
+[Rating::C]
 [Components::V,S,M*]
 [Time::1 A.]
 [Range::60 ft.]

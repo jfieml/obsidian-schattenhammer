@@ -1,0 +1,36 @@
+{
+  "state": {
+    "din_health": {
+      "current": 31,
+      "temporary": 0,
+      "hitdiceUsed": 0
+    },
+    "din_channel_divinity": {
+      "value": 0
+    },
+    "din_inspiration": {
+      "value": 0
+    },
+    "din_spells_1": {
+      "value": 0
+    },
+    "din_spells_2": {
+      "value": 0
+    },
+    "din_spells_3": {
+      "value": 0
+    },
+    "din_spells_4": {
+      "value": 0
+    },
+    "din_spells_5": {
+      "value": 0
+    },
+    "din_spells_6": {
+      "value": 0
+    },
+    "din_arcane_recovery": {
+      "value": 0
+    }
+  }
+}

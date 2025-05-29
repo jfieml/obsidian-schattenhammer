@@ -104,3 +104,50 @@ Sind durch Portal in den [[Grüner Traum]]
 	- Reden mit [[Pimple Harkon]]
 	- Sagt "*die Halborkin*" ist nur eine lokale Legende
 	- Wurde von uns beauftragt [[Belwina Steambottle]] zu töten -> 80 Gold pro Woche und ein Date mit [[Payx]] wenn sie fertig ist
+
+# 2025-05-14
+*In [[Gadgetzan]], 26. November 25 ndP., Abends
+
+- Kampf gegen "Halb-Orkin", Nito wurde direkt getötet und später von der Gruppe wiederbelebt
+- Kampf gegen die Attentäterin wurde noch abgebrochen und wir haben uns darauf geeinigt uns am nächsten Tag zu treffen
+- Steintafel der Wüstentrolle mit alten Totengott-Abbildung und Innenschrift: *"Und vergesset nicht das Opfer für [[Mueh'zala]]"*
+- LEVEL UP
+
+# 2025-05-22
+*In [[Gadgetzan]], 27. November 25 ndP., Morgens*
+
+- Treffen von [[Garona]] in unserer Unterkunft
+	- Hat Ring mit Siegel von [[Sturmwind]] der jemanden gehört, der ihr viel bedeutet hat (ist verstorben)
+	- Ist auf [[Draenor]] geboren und war eine  Sklavin
+	- [[Schattenhammer Kult]] lässt sich auf einen Klan zurückführen "Zwielichthammer Klan"
+		- Schamanen mussten sich im Herz der Elemente den Elementaren stellen
+		- Wenn sie abgelehnt wurden, wurden sie unter die Erde verbannt
+		- Das waren die Mitglieder des Zwielichthammer Klans
+		- Von [[Gul'dan]] wurde [[Shogall]]
+- Artefakt das aus [[Pandaria]] kommen soll, zeigt mit dem magischen Kompass zum Süden der Wüste, was wohl bedeutet, dass das Objekt zum Hauptquartier des [[Schattenhammer Kult]] zeigt.
+- Darum sammeln wir [[Garona]] auf und fliegen zum Gebirge in den Süden der Wüste um zum [[Schattenhammer Kult]] zu fliegen
+- Haben ein Lager in der Wüste bei den Ausläufern der Berge
+- Infiltrieren das Lager
+- [[Lami]] ist eine [[Verlassenen]] Magierin und heißt uns willkommen
+- Wir haben eine n
+
+# 2025-05-28
+*In [[Gadgetzan]] im Süden der Wüst am alten Lager des Kultes, 27. November 25 ndP., Abends*
+
+- Haben das Lager des Kultes erobert
+- Der neue Unterschlupf des Kultes ist in [[Silitus]] im Westen
+- Gehen in die Grabstätte neben dem Lager
+- Eingangshalle -> langer Gang in die Tiefe -> Riesige Halle
+- Deckenmalerei, die eine 
+- Statue von [[Ra]] mit Inschrift in Celestial:
+> *"Hier liegt der Körper des Verräters, der alles in Gefahr brachte woran wir glauben. Sein Hochmut und seine Blasphemie lassen sich nicht Worten beschreiben. Sein schändliches Ende reicht als Strafe nicht fpr seinen grausigen Verrat. Möge seine Seele weiter leiden und sein Grab als Mahnmal dienen für die die sich der Torheit hingeben Götte sein zu wollen. Ruin führt zu Ruin. Tot führt zu Tot"*
+- Haben ein Tor gefunden das mit dem Schlüssen von [[Payx]] geöffnet werden konnte
+- Haben mit einer "Sphinx" gesprochen die uns schlussendlich 2 Goldene Löwen Statuetten geschenkt hat die uns mit dem Kompass den Weg nach [[Pandaria]] zeigen können
+
+*Morgen des 28. November*
+- [[At'nam]] verlässt uns und will nach [[Ogrimar]] um seine Widergutmachung zu beginnen
+- 3 Personen haben per Sending die Info zu der Armee des [[Schattenhammer Kult]] erfahren
+	- [[Varok]]
+	- [[Eos’Arel Mondfeder]]
+	- [[Lady Jaina Proudmoor v. Theramore]]
+- 

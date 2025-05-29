@@ -1,21 +1,19 @@
+# Prepared Spells
+
 **Number of prepared Spells** `$= dv.span(dv.pages('"Nito/Zauber"').where(p => !p.file.name.contains("💀")).where(p => p.Level > 0).where(p => p.Level > 0).where(p => p.prepared).length)` / `=([[Nito, Character-Sheet]].level + [[Nito, Character-Sheet]].wisMod)`
-## Spellslots
-
-**Level I**
-<input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;"><input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;">
-
-**Level II**
-<input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;"><input type="checkbox" style="width: 30px; height: 30px;">
-
-**Level III**
-<input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;"><input type="checkbox" style="width: 30px; height: 30px;">
-
-**Level IV**
-<input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;"><input type="checkbox" style="width: 30px; height: 30px;">
-
-**Level V**
-<input type="checkbox" style="width: 30px; height: 30px;"><input type="checkbox"  style="width: 30px; height: 30px;">
-
+```dataview
+TABLE
+	Level,
+	Type,
+	Time,
+	Range,
+	Attack,
+	Damage
+FROM "Nito/Zauber"
+WHERE
+	prepared or Level = 0
+SORT Level ASC
+```
 ## Combat Spells
 ```dataview
 TABLE

@@ -1,0 +1,1 @@
+At 1st level, the cleric learns one necromancy cantrip of his choice from any spell list. When the cleric casts a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 ft. of each other.

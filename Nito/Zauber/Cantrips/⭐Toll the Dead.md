@@ -8,7 +8,7 @@
 [Range::60 ft.]
 [Attack::WIS Save]
 [Duration::Instant]
-[Damage::2d8/2d12 necr.]
+[Damage::3d8/3d12 necr.]
 ### Description
 
 You point at one creature you can see within range, and the sound of a dolorous bell fills the air around it for a moment. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its hit points, it instead takes 1d12 necrotic damage.

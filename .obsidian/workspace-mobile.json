@@ -40,24 +40,9 @@
             }
           },
           {
-            "id": "c60c80e13e1050fb",
+            "id": "c9a6286c7faf39be",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nito/Spell-List.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Spell-List"
-            }
-          },
-          {
-            "id": "9d97688ea2f428c8",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -65,39 +50,102 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Fight Cheat-Sheet"
             }
           },
           {
-            "id": "274e5ff0f8fe9661",
+            "id": "5787deff88105db2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Nito/Combat Decision Tree.canvas",
+                "viewState": {
+                  "x": 1073.6199218947943,
+                  "y": 257.5329222257635,
+                  "zoom": -0.6527992080933138
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Combat Decision Tree"
+            }
+          },
+          {
+            "id": "65f7d64055a25ec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Items/Zauberstab der Angst.md",
+                "file": "Zelchin/Zelchin, Character-Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zauberstab der Angst"
+              "title": "Zelchin, Character-Sheet"
             }
           },
           {
-            "id": "b8e9add6d3154674",
+            "id": "9e30bd21283668a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nito/Zauber/Level III/⭐ Spirit Guardians.md",
-                "mode": "preview",
+                "file": "Nito/Spell-List.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⭐ Spirit Guardians"
+              "title": "Spell-List"
+            }
+          },
+          {
+            "id": "2a68489f009c17e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nito/Fähigkeiten/Divine Strike.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Divine Strike"
+            }
+          },
+          {
+            "id": "d3c2cf4eedad8261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nito/Fähigkeiten/Reaper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reaper"
+            }
+          },
+          {
+            "id": "a809f43cb729292e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heist Rogue/Heist Rogue, Character-Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heist Rogue, Character-Sheet"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -125,7 +173,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Silit",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -162,8 +210,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "1f485fe9ef7db6e8",
@@ -238,37 +285,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "95cbf3a062e0ad53",
+  "active": "a809f43cb729292e",
   "lastOpenFiles": [
-    "Nito/Zauber/Level III/⭐ Spirit Guardians.md",
-    "Dunkle Klingen.md",
-    "Session Notes.md",
+    "Heist_Rogue,_Character-Sheet.png",
+    "Heist Rogue/Heist Rogue, Character-Sheet.md",
     "Nito/Nito, Character-Sheet.md",
-    "Nito/Spell-List.md",
-    "Nito/Fight Cheat-Sheet.md",
-    "Nito/Items/Zauberstab der Angst.md",
-    "Nito/Zauber/Level II/Hold Person.md",
-    "Nito/Zauber/Level V/Scrying.md",
+    "Heist Rogue",
+    "Session Notes.md",
+    "Nito/Fähigkeiten/Reaper.md",
+    "Lore/Personen/NSCs/Eos’Arel Mondfeder.md",
+    "Lore/Personen/NSCs/Lady Jaina Proudmoor v. Theramore.md",
+    "Nito/Fähigkeiten/Divine Strike.md",
     "Nito/Fähigkeiten/Channel Divinity - Touch of Death.md",
-    "Nito/Inventar von Nito.md",
-    "Nito/Zauber/Level II/Silence.md",
-    "Nito/Zauber/Level V/Summon Celestial.md",
-    "Nito/Zauber/Level V/Holy Weapon.md",
-    "Lore/Völker/Kirin Tor.md",
-    "Yeh'kinja.md",
-    "Nito/Zauber/Level V/Legend Lore.md",
-    "Nito/Zauber/Level V/Greater Restoration.md",
-    "Nito/Zauber/Level V/Raise Dead.md",
-    "Lore/Allgemeines/Bwonsamdi.md",
-    "Nito/Items/Langschwert, Ehre des Klingenmeisters.md",
-    "Divine Strike.md",
-    "Nito/Items/Mithril Halbplatte.md",
+    "Nito/Fähigkeiten/Inescapable Destruction.md",
+    "Nito/Spell-List.md",
+    "Zelchin/Zelchin, Character-Sheet.md",
+    "Nito/Zauber/Level I/Detect Magic.md",
+    "Nito/Zauber/Level IV/Locate Creature.md",
+    "Nito/Fight Cheat-Sheet.md",
+    "Nito/Zauber/Level III/⭐ Spirit Guardians.md",
+    "Nito/Zauber/Level III/Aura of Vitality.md",
+    "Nito/Combat Decision Tree.canvas",
+    "Nito/Zauber/Level III/Speak with Dead.md",
     "Nito/Items/Elunestein der Absorbtion.md",
-    "Nito/Zauber/Level III/Spirit Shroud.md",
-    "Nito/Zauber/Level I/Healing Word.md",
+    "Zelchin",
+    "Nito/Zauber/Level VI/True Seeing.md",
+    "Nito/Zauber/Level V/⭐Dawn.md",
+    "Nito/Zauber/Level V/Scrying.md",
+    "Nito/Inventar von Nito.md",
+    "Nito/Zauber/Level II/Aid.md",
+    "Dunkle Klingen.md",
+    "Nito/Zauber/Level VI/Find the Path.md",
+    "Nito/Zauber/Level VI",
     "Images/Image Shen Zin Zu.jpeg",
     "Pasted image 20250312204545.png",
     "Pasted image 20250312204427.png",
@@ -280,15 +332,11 @@
     "/Nito/Items",
     "/Lore/Völker",
     "/Lore/Personen/SCs",
-    "/Lore/Orte",
-    "/Lore/Organisationen",
-    "/Lore/Allgemeines",
     "/Images/Image Karte WoW.png",
     "Images/Image Karte WoW.png",
     "Images/Image Wächterschild.jpeg",
     "Images/Image Umhang des Schutzes.jpeg",
     "Images/Image Zauberstab der Angst.jpeg",
-    "/Images/Image Zauberstab der Angst.jpeg",
-    "/Images/Image Wächterschild.jpeg"
+    "/Images/Image Zauberstab der Angst.jpeg"
   ]
 }

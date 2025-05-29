@@ -1,0 +1,1 @@
+Starting at 6th level, the cleric's ability to channel negative energy becomes more potent. Necrotic damage dealt by the character's cleric spells and [[Channel Divinity - Touch of Death|Channel Divinity]] options ignores resistance to necrotic damage.

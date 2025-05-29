@@ -1,0 +1,2 @@
+At 8th level, the cleric gains the ability to infuse his weapon strikes with necrotic energy. Once on each of the cleric's turns when he or she hits a creature with a weapon attack, the cleric can cause the attack to deal an extra 1d8 necrotic damage to the target.
+When the cleric reaches 14th level, the extra damage increases to 2d8.

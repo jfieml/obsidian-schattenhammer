@@ -1,19 +1,22 @@
 ## Werte
 
-**AC** `=sum([[Nito, Character-Sheet]].ac) + [[Nito, Character-Sheet]].dexMod`
-**Initiative** +`=[[Nito, Character-Sheet]].dexMod + " (Advantage)"`
-**Speed** `=[[Nito, Character-Sheet]].speed`
+```stats
+items:
+  - label: AC
+    value: "20"
+  - label: Initiative
+    value: "+1 (Adv.)"
+  - label: Speed
+    value: "30 ft."
+  - label: "Spell-Save DC"
+    value: "17"
+  - label: "Spell-Attack"
+    value: "+9"
 
-**Spell DC**: `=8 + [[Nito, Character-Sheet]].wisMod + [[Nito, Character-Sheet]].prof`
-**Spell Attack**: +`=[[Nito, Character-Sheet]].wisMod + [[Nito, Character-Sheet]].prof`
+grid:
+  columns: 3
+```
 
-**Verwundbarkeiten**: Radiant
-**Resistenzen**: All Physical, Necrotic
-**Immunitäten**: Non-Magical Poisons and Illnesses
-
-73 HP
--7
-66 
 ## Actions
 
 ### Nahkampf Angriff
@@ -27,7 +30,7 @@
 
 |            | Single Target                                                                             | Multi Target                                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Near**   | [[⭐Inflict Wounds]]<br>[[Channel Divinity - Touch of Death]]<br>                          | [[⭐ Spirit Guardians]]                                                                                                          |
+| **Near**   | [[⭐Inflict Wounds]]<br>[[Channel Divinity - Touch of Death]]<br>                          | [[⭐ Spirit Guardians]]                                                                                                         |
 | **Medium** | [[⭐Toll the Dead]]<br>[[⭐Spiritual Weapon]]<br>[[⭐Guiding Bolt]]<br>[[💀Blight (autom.)]] | [[⭐Toll the Dead]] (Wenn 2 Gegner direkt nebeinander)<br>[[Zauberstab der Angst]]: Angstkegel<br>[[Flame Strike]]<br>[[⭐Dawn]] |
 | **Far**    | [[⭐Guiding Bolt]]                                                                         | [[💀Cloudkill (autom.)]]<br>[[Insect Plague]]                                                                                  |
 ### Debuffs

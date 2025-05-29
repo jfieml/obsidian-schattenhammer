@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"d3cce8dcbb0bb20f","type":"text","text":"Ein Gegner / Viele Gegner?","x":-66,"y":-172,"width":250,"height":60},
+		{"id":"c6b9735cb07dc3bb","type":"text","text":"DAMAGE","x":0,"y":-360,"width":118,"height":60},
+		{"id":"af913038b6bc03fe","type":"text","text":"Entfernung Nah / Mittel / Weit?","x":240,"y":40,"width":280,"height":60},
+		{"id":"fc6909572a9b8574","type":"text","text":"[[⭐Inflict Wounds]]\nAttack +9\n1: ~**16.5** (3d10 necr.)\n2: ~**22** (4d10 necr.)\n3: ~**27.5** (5d10 necr.)\n4: ~**33** (6d10 necr.)\n\n---\n\n[[Langschwert, Ehre des Klingenmeisters]] + [[Divine Strike]] + [[Channel Divinity - Touch of Death]]\nAttack +7\n~**37** (1d8 +1 mag. slash. + 1d8 necr. + 27 necr.)\n\n","x":-1040,"y":-142,"width":280,"height":420,"color":"1"},
+		{"id":"fbcd34df218b3462","type":"text","text":"[[⭐Guiding Bolt]]\nAttack +9 | 120 ft.\n1: ~**14** (4d6 radiant)\n2: ~**17.5** (5d6 radiant)\n3: ~**21** (6d6 radiant)\n4: ~**24.5** (7d6 radiant)","x":-371,"y":466,"width":223,"height":168,"color":"1"},
+		{"id":"00f17f5a8b4f64e7","type":"text","text":"Entfernung Nah / Mittel / Weit?","x":-399,"y":40,"width":280,"height":60},
+		{"id":"72462fb000e80611","type":"text","text":"[[⭐Toll the Dead]]\nWIS Save DC 17 | 60 ft.\n~**19.5** (3d12 necr.)\n\n---\n\n[[💀Blight (autom.)]]\nCON Save DC 17 | 30 ft.\n4: ~**36**/**18** (8d8 necr.)\n\n---\n\n[[⭐Spiritual Weapon]]\nAttack +9 | Bonus Action | 60ft.\n\n2: ~**9.5** (1d8 + 5 force)\n3: ~**14** (2d8 + 5 force)\n4: ~**18.5** (3d8 + 5 force)","x":-760,"y":360,"width":281,"height":460,"color":"1"},
+		{"id":"e56e77a459cf3f58","type":"text","text":"[[⭐Toll the Dead]]\nWIS Save DC 17 | 60 ft.\n~**39** (2x3d12 necr.)","x":1222,"y":20,"width":282,"height":100,"color":"1"},
+		{"id":"887cb06fa1d58c0b","type":"text","text":"[[⭐Dawn]]\nCON Save DC 17 | 60 ft., 30 ft. radius\n5: ~**22**/**11** (4d10 radiant) + sunlight","x":1181,"y":306,"width":323,"height":108,"color":"1"},
+		{"id":"9cb4480702a0af9c","type":"text","text":"[[💀Cloudkill (autom.)]]\nCON Save DC 17 | 120 ft., 20 ft. radius\n5: ~**22.5**/**11** (5d8 poison)","x":1040,"y":654,"width":336,"height":96,"color":"1"},
+		{"id":"e7c4666becccc84f","type":"text","text":"[[⭐ Spirit Guardians]]\nWIS Save DC 17 | 15 ft. radius\n3: ~**13.5**/**7** (3d8 necr.)\n4: ~**18**/**9** (4d8 necr.)","x":1181,"y":-296,"width":282,"height":124,"color":"1"},
+		{"id":"ba2490bd5733416a","x":0,"y":-620,"width":118,"height":50,"type":"text","text":"DEBUFF"},
+		{"id":"992240cd40fa7a9e","type":"text","text":"[[Blade Barrier]]\nDEX Save DC 17 | 60 ft., 100 ft. Line or 60 ft. Ring\n6: ~**33**/**17** (6d10 slash.) + 3/4 cover + diff. terrain","x":-66,"y":660,"width":283,"height":140,"color":"1"},
+		{"id":"f902187aa45f6c10","type":"text","text":"[[Sunbeam]]\nCON Save DC 17 | self, 5x60 ft.\n6: ~**27**/**14** (6d8 radiant) + blinded","x":372,"y":498,"width":296,"height":105,"color":"1"}
+	],
+	"edges":[
+		{"id":"91aba1c1b7e05ed0","fromNode":"c6b9735cb07dc3bb","fromSide":"bottom","toNode":"d3cce8dcbb0bb20f","toSide":"top"},
+		{"id":"b702c06042ae6ab6","fromNode":"d3cce8dcbb0bb20f","fromSide":"left","toNode":"00f17f5a8b4f64e7","toSide":"top","label":"Ein Gegner"},
+		{"id":"ce352c6565d4f94e","fromNode":"d3cce8dcbb0bb20f","fromSide":"right","toNode":"af913038b6bc03fe","toSide":"top","label":"Mehrere Gegner"},
+		{"id":"833091160b0dad15","fromNode":"00f17f5a8b4f64e7","fromSide":"left","toNode":"fc6909572a9b8574","toSide":"right","label":"Nahkampf"},
+		{"id":"5b32266d0624fdcb","fromNode":"00f17f5a8b4f64e7","fromSide":"bottom","toNode":"72462fb000e80611","toSide":"top","label":"30-60 ft."},
+		{"id":"f050d8e12f569416","fromNode":"00f17f5a8b4f64e7","fromSide":"bottom","toNode":"fbcd34df218b3462","toSide":"top","label":"> 60 ft."},
+		{"id":"2c9c004dc642026e","fromNode":"af913038b6bc03fe","fromSide":"right","toNode":"e7c4666becccc84f","toSide":"left","label":"self, 15 ft. radius"},
+		{"id":"edd50300d2ce289c","fromNode":"af913038b6bc03fe","fromSide":"right","toNode":"e56e77a459cf3f58","toSide":"left","label":"60 ft. | 2 nebeneinander"},
+		{"id":"24c6d6aa2e656b19","fromNode":"af913038b6bc03fe","fromSide":"bottom","toNode":"f902187aa45f6c10","toSide":"top","label":"self, 5x60 ft. line"},
+		{"id":"6b366f20bfbd623b","fromNode":"af913038b6bc03fe","fromSide":"bottom","toNode":"992240cd40fa7a9e","toSide":"top","label":"60 ft. | max. 100 ft. Wall or 60 ft. Ring"},
+		{"id":"90d577372855274d","fromNode":"af913038b6bc03fe","fromSide":"right","toNode":"887cb06fa1d58c0b","toSide":"left","label":"60 ft., 30 ft. radius"},
+		{"id":"0339486bb9e997d2","fromNode":"af913038b6bc03fe","fromSide":"right","toNode":"9cb4480702a0af9c","toSide":"left","label":"120 ft."}
+	]
+}

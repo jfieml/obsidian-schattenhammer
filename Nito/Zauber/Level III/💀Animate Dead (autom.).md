@@ -4,7 +4,7 @@ prepared: true
 #spell
 
 [Level::3]
-[Type::Dmg.]
+[Type::Summon]
 [Rating::A]
 [Components::V,S,M*]
 [Time::1 Min.]
